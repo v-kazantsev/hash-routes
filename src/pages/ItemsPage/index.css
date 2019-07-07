@@ -1,0 +1,13 @@
+.items-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.items-list__item {
+  display: flex;
+  justify-content: space-between;
+  background-color: lavender;
+  padding: 20px;
+}
